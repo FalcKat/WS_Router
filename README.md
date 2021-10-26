@@ -1,4 +1,4 @@
-# WS_Router
+# Router-Installation auf einem Raspberry PI
 M306 Hauptprojekt :shipit:
 
 --------------
