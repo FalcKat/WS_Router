@@ -1,10 +1,11 @@
 Installation: 
 
-![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/89446428/138836774-a04bd4d4-6305-4d68-b3ac-7a5eeb2558b8.png)
+![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/89446428/138842645-4b5d3818-e091-42b5-b7d0-e1172e4de27b.jpg)
 
-![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/89446428/138836782-b20aebd0-fe57-485f-8ca4-71eb55bd158a.png)
-
+![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/89446428/138842658-8d57187f-65f1-4912-9861-3fa60d2cbd12.jpg)
 
 ![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/89446428/138841017-d02363cf-2aad-4524-8b84-c52426d5c29f.png)
 
-![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/89446428/138841022-13d7affc-9a1c-4b2c-b042-9eec02a8dbaa.png)
+![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/89446428/138842332-8f780cd0-e940-4a5c-88d7-ed82d90c345e.jpg)
+
+![MicrosoftTeams-image (8)](https://user-images.githubusercontent.com/89446428/138842749-608d7d2e-2f3a-4654-83fe-35641cd9696a.png)
