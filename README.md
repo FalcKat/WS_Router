@@ -10,7 +10,7 @@ Die Arbeit wurde in zwei Teilen Unterteilt, zuerst haben wir eine Vorstudie ausg
 Das hier ist die Dokumentation des Praktischen Teils, dazu mussten alle Teams sich für ein Thema entscheiden, das sich auf einem Raspberry Pi realisieren lässt. Dabei hat sich unser Team  für das Thema Router enttschieden. 
 Das Thema hat uns angesprochen weil es, zu einer Routerinstallation auf einem Raspberry Pi, noch keine Dokumentation an der TBZ existiert und wir hoffen das wir dadurch, die nachfolgendedn Schüler dazu Inspirieren zu können, eigene Ideen umzusetzten. 
 
-Vorstudie: M306Router/Vorstudie.pdf
+Vorstudie: [Vorstudie.pdf](https://github.com/FalcKat/WS_Router/files/7416091/Vorstudie.pdf)
 
 Inhaltsverzeichnis:
 -------------------
