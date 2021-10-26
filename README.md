@@ -10,29 +10,27 @@ Das Thema hat uns angesprochen weil es, zu einer Routerinstallation auf einem Ra
 
 Vorstudie: [Vorstudie.pdf](https://github.com/FalcKat/WS_Router/files/7416091/Vorstudie.pdf)
 
-Inhaltsverzeichnis:
--------------------
-[1. Autoren, Versionierung des Dokumentes](M306Router/Autoren.md "1. Autoren, Versionierung des Dokumentes ")
+## Inhaltsverzeichnis:
 
-[2. Einfuehrung](M306Router/Einfuehrung.md "2. Einfuehrung ")
+#### [1. Autoren, Versionierung des Dokumentes](M306Router/Autoren.md "1. Autoren, Versionierung des Dokumentes ")
 
-[3. Benoetigte Hard- und Software](M306Router/Hardware.md  "3. Benoetigte Hard- und Software" )
+#### [2. Einfuehrung](M306Router/Einfuehrung.md "2. Einfuehrung ")
+
+#### [3. Benoetigte Hard- und Software](M306Router/Hardware.md  "3. Benoetigte Hard- und Software" )
 	
-[4. Installationsanleitung](M306Router/Installationsanleitung.md "4. Installationsanleitung")
+#### [4. Installationsanleitung](M306Router/Installationsanleitung.md "4. Installationsanleitung")
 
-[5. Qualitaetskontrolle](M306Router/Qualitaetskontrolle.md "5. Qualitaetskontrolle")
+#### [5. Qualitaetskontrolle](M306Router/Qualitaetskontrolle.md "5. Qualitaetskontrolle")
 
-[6. Error-Handling](M306Router/Error-Handling.md  "6. Error-Handling ")
+#### [6. Error-Handling](M306Router/Error-Handling.md  "6. Error-Handling ")
 
-[7. Quellen](M306Router/Quellen.md "7. Quellen")
+#### [7. Quellen](M306Router/Quellen.md "7. Quellen")
 
-[8. Lizenzen](M306Router/Lizenz.md "8. Lizenzen" )
+#### [8. Lizenzen](M306Router/Lizenz.md "8. Lizenzen" )
  
 
-:paw_prints:
 
 Reflektion: 
-
 
 - - -
 
