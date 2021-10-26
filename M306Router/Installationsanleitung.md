@@ -3,7 +3,7 @@
 Didaktisch reduzierte Anleitung: 
 
 
-Lust auf mehr? Hier gehts zur ausführlichen Version der Dokumentation: [Dokumentation](WS_Router/M306Router/Installationsanleitung.md\Install.md "Dokumentation")
+Lust auf mehr? Hier gehts zur ausführlichen Version der Dokumentation: [Dokumentation](/M306Router/Install.md)
 
 
 Anweisungen verstaendlich und nachvollziehbar
