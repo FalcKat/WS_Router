@@ -3,7 +3,7 @@ M306 Hauptprojekt :shipit:
 
 Inhaltsverzeichnis:
 -------------------
-[1. Autoren, Versionierung des Dokumentes](Autoren.md "1. Autoren, Versionierung des Dokumentes ")
+[1. Autoren, Versionierung des Dokumentes](M306Router/Autoren.md "1. Autoren, Versionierung des Dokumentes ")
 
 [2. Einfuehrung](Einfuehrung.md "2. Einfuehrung ")
    - Beschreibung: Welche Funktionen wird der Service erfuellen
