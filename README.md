@@ -5,29 +5,29 @@ Inhaltsverzeichnis:
 -------------------
 [1. Autoren, Versionierung des Dokumentes](M306Router/Autoren.md "1. Autoren, Versionierung des Dokumentes ")
 
-[2. Einfuehrung](Einfuehrung.md "2. Einfuehrung ")
+[2. Einfuehrung](M306Router/Einfuehrung.md "2. Einfuehrung ")
    - Beschreibung: Welche Funktionen wird der Service erfuellen
    - Vorgesehener Zeitaufwand für die Realisierung
    - Stolpersteine
 
-[3. Benoetigte Hard- und Software](Hardware.md  "3. Benoetigte Hard- und Software" )
+[3. Benoetigte Hard- und Software](M306Router/Hardware.md  "3. Benoetigte Hard- und Software" )
    - Hardware (Materialliste, Funktionalitaet)
    - Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Ab-
 	hängigkeiten, Funktionalitaet)
 	
 	
-[4. Installationsanleitung](Installationsanleitung.md "4. Installationsanleitung")
+[4. Installationsanleitung](M306Router/Installationsanleitung.md "4. Installationsanleitung")
    - Anweisungen verstaendlich und nachvollziehbar
    - Keine fertigen Loesungsschritte aufzeigen
    - Hilfestellung (Tipps, Quellen...)
 
-[5. Qualitaetskontrolle](Qualitaetskontrolle.md "5. Qualitaetskontrolle")
+[5. Qualitaetskontrolle](M306Router/Qualitaetskontrolle.md "5. Qualitaetskontrolle")
 
-[6. Error-Handling](Error-Handling.md  "6. Error-Handling ")
+[6. Error-Handling](M306Router/Error-Handling.md  "6. Error-Handling ")
 
-[7. Quellen](Quellen.md "7. Quellen")
+[7. Quellen](M306Router/Quellen.md "7. Quellen")
 
-[8. Lizenzen](Lizenz.md "8. Lizenzen" )
+[8. Lizenzen](M306Router/Lizenz.md "8. Lizenzen" )
  
 
 - - -
