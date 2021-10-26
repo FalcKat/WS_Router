@@ -1,2 +1,7 @@
 ## Autoren
-Autoren: Kate Falco, Marco Neuschwander
+Autoren:
+
+Kate Falco, Marco Neuschwander
+
+Versionierung: 
+
