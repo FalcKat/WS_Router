@@ -1,0 +1,1 @@
+Benoetigte Hard- und Software
