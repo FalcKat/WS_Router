@@ -21,7 +21,7 @@ Inhaltsverzeichnis:
 
 [8. Lizenzen](M306Router/Lizenz.md "8. Lizenzen" )
  
-:feet:
+
 :paw_prints:
 - - -
 
