@@ -4,7 +4,7 @@
 Didaktisch reduzierte Anleitung: 
 
 
-Lust auf mehr? Hier gehts zur ausführlichen Version der Dokumentation: 
+Lust auf mehr? Hier gehts zur ausführlichen Version der Dokumentation:  M306Router/Install.md 
 
 
 Anweisungen verstaendlich und nachvollziehbar
