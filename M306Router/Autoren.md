@@ -1,7 +1,7 @@
 ## Autoren
 #### Autoren:
 
-*Kate Falco, Marco Neuschwander*
+*Kate Falco ST19a, Marco Neuschwander ST19a*
 
 #### Versionierung: 
 
