@@ -38,4 +38,4 @@ Detaillierter Zeitplan der Realisierung:
 - WLAn verbindung nicht möglich -> falsche Interneteinstellungen 
 - Sich selbst aus dem Internet ausschliessen -> Vergessen der Interneteinstellungen 
 - Falsche Hardware
-- 
+- Stress wegen nicht einhalten des Zeitplans
