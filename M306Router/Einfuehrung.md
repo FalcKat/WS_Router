@@ -19,6 +19,18 @@ Detaillierter Zeitplan der Realisierung:
 |   26.10.2021  |  0.5 |Aufbau der Hardware, PLanung der Lektion
 | 26.10.2021|0.5|Installation des Routers auf dem RaspberryPI
 | 26.10.2021|0.5|Screenshots machen und Installationsanleitung anfangen 
-|26.10.2021|1|Schreiben der: Einleitung, 
+|26.10.2021|1|Schreiben der: Autoren, Versionierung des Dokumente, Einfuehrung, Benoetigte Hard- und Software
+|26.10.2021|0.5| PLanung nächste Woche evtl. Hausaufgaben
+
+
+|**Datum**|**Zeit(Lektion)/Aufwand**|**Aktion**
+|-----------|-----------------|--------------
+|02.11.2021 |1|Start der Dokumentation, Formatierung der Dokumentation
+| 02.11.2021  |  0.5 |Aufbau der Hardware, PLanung der Lektion
+| 02.11.2021|0.5|Installation des Routers auf dem RaspberryPI
+| 02.11.2021|0.5|Screenshots machen und Installationsanleitung anfangen 
+|02.11.2021|1|Schreiben der: Autoren, Versionierung des Dokumente, Einfuehrung, Benoetigte Hard- und Software
+|02.11.2021|0.5| PLanung nächste Woche evtl. Hausaufgaben
+
 
 #### Stolpersteine: 
