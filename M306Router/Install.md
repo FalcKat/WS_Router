@@ -69,6 +69,8 @@ Glückwunsch, jetzt haben Sie ihr eigener kleiner Router. :wink:
 
 Nun haben wir uns noch Freiwillig dazu entschieden einen DHCP einzurichten, dieser Schritt kann ausgelassen werden, da die Router installation abgeschlossen wurde. 
 
+#### DHCP Konfiguration: 
+
 ![MicrosoftTeams-image (10)](https://user-images.githubusercontent.com/89446428/138843424-e1f35be6-6115-49dd-9514-a7046014eff6.jpg)
 
 
