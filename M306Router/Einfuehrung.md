@@ -13,12 +13,12 @@ Allgemeiner Zeitplan aus der Vorstudie:
 
 Detaillierter Zeitplan der Realisierung: 
 
-|**Datum**|**Versionnummer**|**Änderungen**
+|**Datum**|**Zeit(Lektion)/Aufwand**|**Aktion**
 |-----------|-----------------|--------------
-|26.10.2021 |1.0|Formatierung des Inhaltsverzeichnis
-|   26.10.2021  |   1.1  | Unterseiten Formatieren
-| 26.10.2021|1.2|Installations Dokumentation beginnen
-| 26.10.2021|1.3|Anfangs Text Schreiben
-|26.10.2021|1.4|DHCP Probleme -> noch keine Lösung
+|26.10.2021 |1|Start der Dokumentation, Formatierung der Dokumentation
+|   26.10.2021  |  0.5 |Aufbau der Hardware, PLanung der Lektion
+| 26.10.2021|0.5|Installation des Routers auf dem RaspberryPI
+| 26.10.2021|0.5|Screenshots machen und Installationsanleitung anfangen 
+|26.10.2021|1|Schreiben der: Einleitung, 
 
 #### Stolpersteine: 
