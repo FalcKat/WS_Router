@@ -29,7 +29,7 @@ Detaillierter Zeitplan der Realisierung:
 |02.11.2021 |0.5|Fehlerbehebung
 | 02.11.2021  | 1|Beendung der Installataionsanleitung 
 | 02.11.2021|0.5|Test der Umgebung
-| 02.11.2021|1|Schreiben der: 5. Qualitaetskontrolle, Error-Handling, Quellen, Lizenzen
+| 02.11.2021|1|Schreiben der: Qualitaetskontrolle, Error-Handling, Quellen, Lizenzen
 |02.11.2021|0.5|Überarbeitung des Repositorys 
 |02.11.2021|0.5| Planung der Präsentation und erstellen der Präsentation
 
