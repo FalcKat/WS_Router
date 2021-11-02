@@ -35,14 +35,39 @@ Ist die Installation erfolgreich gewesen, wird er euch nach einem Neustart frage
 
 Hier sollte der Pi als WLAN namens `raspi-webgui` auftauchen. Ihr könnt Euch mit dem Passwort `ChangeMe` mit dem WLAN verbinden.
 
+*Tipp: Falls ihr, das Raspi an keinem Internet angebunden habt, wird hier stehen "kein Internet", die Installation war trotzdem erfolgreich und man hat immer noch zugriff auf die Admin-Oberfläche*
+
+
 ![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/89446428/138841017-d02363cf-2aad-4524-8b84-c52426d5c29f.png)
 
+Die vollständigen Zugangsdaten lauten:
+
+`WLAN-Name: raspi-webgui`
+
+`Passwort: ChangeMe`
+
+`IP-Adresse der Admin-Oberfläche: 10.3.141.1`
+
+`Standardbenutzer: admin`
+
+`Standard-Passwort: secret`
+
+Habt ihr euch erfolgreich mit dem WLAN verbunden, könnt Ihr die IP-Adresse 10.3.141.1 in der URL-Zeile Eures Browsers eingeben, um die Admin-Oberfläche aufzurufen.
+
+Hier könnt ihr euch dan mit den oben genannten Login-Daten anmelden. 
 
 ![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/89446428/138842332-8f780cd0-e940-4a5c-88d7-ed82d90c345e.jpg)
 
+Nun könnt ihr bei "Connected-Devices" überprüfen, welche Geräte mit dem WLAN verbunden sind. 
+Bei uns hier ist es jetzt den Laptop, der schon für die Konfiguration benutzt wurde. 
+
+Ihr könnt aber jeder beliebiges WLAN kompatibles Gerät verbinden (Handy, Tablets, etc.) 
+
+Glückwunsch, jetzt haben Sie ihr eigener kleiner Router. :wink:
 
 ![MicrosoftTeams-image (9)](https://user-images.githubusercontent.com/89446428/138843416-3c832a6e-d800-4748-93f8-61301b383b01.jpg)
 
+Nun haben wir uns noch Freiwillig dazu entschieden einen DHCP einzurichten, dieser Schritt kann ausgelassen werden, da die Router installation abgeschlossen wurde. 
 
 ![MicrosoftTeams-image (10)](https://user-images.githubusercontent.com/89446428/138843424-e1f35be6-6115-49dd-9514-a7046014eff6.jpg)
 
