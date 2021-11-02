@@ -77,6 +77,10 @@ Dort könnt Ihr dannt eure IP Adressen eintragen und ein Interface auswählen.
 
 ![MicrosoftTeams-image (10)](https://user-images.githubusercontent.com/89446428/138843424-e1f35be6-6115-49dd-9514-a7046014eff6.jpg)
 
+Dann müsst Ihr noch die DHCP options aktivieren. 
 
+Dort gebt Ihr dan die IP Range ein und sie können auch noch die Lease Time je nach belieben anpassen. 
 
 ![MicrosoftTeams-image (8)](https://user-images.githubusercontent.com/89446428/138842948-fd450bcb-ec31-4ed7-8ca7-703c2d03a6f5.jpg)
+
+Glückwunsch, jetzt haben Sie nicht nur einen Router sondern auch einen DHCP Service. :wink:
