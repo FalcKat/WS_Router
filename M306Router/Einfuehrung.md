@@ -27,11 +27,15 @@ Detaillierter Zeitplan der Realisierung:
 |**Datum**|**Zeit(Lektion)/Aufwand**|**Aktion**
 |-----------|-----------------|--------------
 |02.11.2021 |0.5|Fehlerbehebung
-| 02.11.2021  | 0.5 |Beendung der Installataionsanleitung 
-| 02.11.2021|1|Installation des Routers auf dem RaspberryPI
-| 02.11.2021|0.5|Screenshots machen und Installationsanleitung anfangen 
-|02.11.2021|1|Schreiben der: Autoren, Versionierung des Dokumente, Einfuehrung, Benoetigte Hard- und Software
+| 02.11.2021  | 1|Beendung der Installataionsanleitung 
+| 02.11.2021|0.5|Test der Umgebung
+| 02.11.2021|1|Schreiben der: 5. Qualitaetskontrolle, Error-Handling, Quellen, Lizenzen
+|02.11.2021|0.5|Überarbeitung des Repositorys 
 |02.11.2021|0.5| Planung der Präsentation und erstellen der Präsentation
 
 
 #### Stolpersteine: 
+- WLAn verbindung nicht möglich -> falsche Interneteinstellungen 
+- Sich selbst aus dem Internet ausschliessen -> Vergessen der Interneteinstellungen 
+- Falsche Hardware
+- 
