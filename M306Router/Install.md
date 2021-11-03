@@ -83,4 +83,4 @@ Dort gebt Ihr dan die IP Range ein und sie können auch noch die Lease Time je n
 
 ![MicrosoftTeams-image (8)](https://user-images.githubusercontent.com/89446428/138842948-fd450bcb-ec31-4ed7-8ca7-703c2d03a6f5.jpg)
 
-Glückwunsch, jetzt haben Sie nicht nur einen Router sondern auch einen DHCP Service. :wink:
+Glückwunsch, jetzt haben Sie nicht nur einen Router sondern auch einen DHCP Service. :tada:
