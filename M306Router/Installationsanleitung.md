@@ -36,7 +36,7 @@ Mit den Zugangsaten könnt ihr euch dan an der Admin-Oberfläche anmelden. Dort 
 
 
 
-Glückwunsch, jetzt haben Sie ihr eigener kleiner Router. :wink:
+Glückwunsch, jetzt haben Sie ihr eigener kleiner Router. :partying_face:
 
 Lust auf mehr? Hier gehts zur ausführlichen Version der Dokumentation: [Dokumentation](/M306Router/Install.md)
 
