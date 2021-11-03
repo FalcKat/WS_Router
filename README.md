@@ -31,7 +31,9 @@ Vorstudie: [Vorstudie.pdf](https://github.com/FalcKat/WS_Router/files/7416091/Vo
 
 -----
 ### Reflektion: 
+Generell sind wir sehr glücklich wie das Projekt verlaufen ist und wir definitv können wir neues gesammeltes Wissen mitnehmen. Durch das Probeprojekt konnten wir schon gute Erfahrungen mit Markdown und Github im allgemeinem Sammeln, dazu war uns die Installation des Routers auch nicht fremd, da wir uns schon an einem vorherigen Modul daran gewagt haben und wir beide über gute Grundkenntnisse über die Arbeit mit dem Raspi verfügten. 
 
+Es hat uns sehr gefreut zu hören das andere Schüler von dieser Dokumentation profitieren sollten, da wir uns auch im 2. Lehrjahr gefragt haben "gibt es keine Dokumentation über eine Router installation?". Die gab es nämlich nicht, dabei hat man danach so viele Möglichkeiten zum Beispiel kann man damit auch einen AccesPoint machen, was auch einwenige von unseren Klasse überraschte. 
 - - -
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/ch/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/ch/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/ch/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Schweiz Lizenz</a>
