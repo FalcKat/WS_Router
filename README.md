@@ -33,7 +33,7 @@ Vorstudie: [Vorstudie.pdf](https://github.com/FalcKat/WS_Router/files/7416091/Vo
 ### Reflektion: 
 Im Allgemeinem sind wir sehr glücklich wie das Projekt verlaufen ist, dazu können wie neues gesammeltes Wissen mitnehmen. Dank dem Probeprojekt konnten wir schon gute Erfahrungen mit Markdown und Github im allgemeinem Sammeln, dazu war uns die Installation des Routers auch nicht fremd, dadurch konnten wir ganz beruhigt an das Projekt herangehen. 
 
-Es hat uns sehr gefreut zu hören das andere Schüler von dieser Dokumentation profitieren sollten, da wir uns auch im 2. Lehrjahr gefragt haben "gibt es keine Dokumentation über eine Router installation?". Die gab es nämlich nicht. Das fanden wir sehr schade, den wen der Router mal steht hat man sehr viele coole weitere Möglichkeiten, zum Beispiel gibt es auch da die Optionen einen AccessPoint zu errichten. 
+Es hat uns sehr gefreut zu hören das andere Schüler von dieser Dokumentation profitieren sollten, da wir uns auch schon im 2. Lehrjahr gefragt haben warum es keine Router-Installation-Anleitung gab. Das fanden wir sehr schade, den wen der Router mal steht hat man sehr viele coole weitere Möglichkeiten, zum Beispiel gibt es auch da die Optionen einen AccessPoint zu errichten. 
 
 Zusammengefasst können wir also sagen das uns dieses Projekt sehr viel Freude bereitet hat, wir aber definitv noch an unsere Fähigkeit eine Vorstudie zu schreiben, arbeiten können. 
 - - -
